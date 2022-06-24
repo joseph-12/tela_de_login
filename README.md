@@ -1,2 +1,2 @@
 # projeto php        
-# projeto criado para desenvolver melhor abilidades
+# projeto feito com HTML,CSS,PHP,MYSQL utilizando PDO
